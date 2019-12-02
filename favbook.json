@@ -1,0 +1,23 @@
+{
+	"name": "favbooks",
+	"Title": [
+		"Conversation with friends",
+		"Harry Potter",
+		"Wonder"
+	],
+	"Authors": [
+		"Sally Rooney",
+		"J. K. Rowling",
+		"R. J. Palacio and Brian Kilmeade"
+	],
+	"Language": [
+		"English",
+		"English",
+		"French"
+	],
+	"Published": [
+		"2018",
+		"1999",
+		"2019"
+	]
+}
