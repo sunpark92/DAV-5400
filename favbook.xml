@@ -1,0 +1,20 @@
+<Book>
+  <book 1>
+    <Titles>Conversation with friends</Titles>
+    <Authors>Sally Rooney</Authors>
+    <Languages>English</Languages>
+    <Published>2018</Published>
+  </book 1>
+  <book 2>
+    <Titles>Harry Potter</Titles>
+    <Authors>J. K. Rowling</Authors>
+    <Languages>English</Languages>
+    <Published>1999</Published>
+  </book 2>
+  <book 3>
+    <Titles>Wonder</Titles>
+    <Authors>R. J. Palacio, Brian Kilmeade</Authors>
+    <Languages>French</Languages>
+    <Published>2019</Published>
+  </book 3>
+</Book>
